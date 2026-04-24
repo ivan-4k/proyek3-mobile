@@ -154,8 +154,8 @@ class _SplashScreenState extends State<SplashScreen>
                       'Fall in Love with\nCoffee in Blissful\nDelight!',
                       textAlign: TextAlign.center,
                       style: TextStyle(
-                        fontSize: 36,
-                        fontWeight: FontWeight.w800,
+                        fontSize: 32,
+                        fontWeight: FontWeight.w600,
                         color: Colors.white,
                         height: 1.2,
                       ),
@@ -174,7 +174,8 @@ class _SplashScreenState extends State<SplashScreen>
                       'Welcome to our cozy Seven Coffee corner, where\nevery cup is a delightful for you.',
                       textAlign: TextAlign.center,
                       style: TextStyle(
-                        fontSize: 14,
+                        fontSize: 12,
+                        fontWeight: FontWeight.w400,
                         color: Color(0xFFAAAAAA),
                         height: 1.5,
                       ),
